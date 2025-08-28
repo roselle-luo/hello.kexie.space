@@ -90,14 +90,33 @@ const data: Array<LDirection> = [
         logo: Logo.DeepLearning,
         width: 150,
     }, {
-        name: "小程序",
-        key: "MiniProgram",
-        logo: Logo.MiniProgram,
-        width: 140,
-    }, {
         name: "视频剪辑",
         key: "Video",
         logo: Logo.Video,
+        width: 150,
+    },
+    {
+        name: "逆向工程",
+        key: "Reverse",
+        logo: Logo.ReverseProject,
+        width: 150,
+    },
+    {
+        name: "密码学",
+        key: "Cryptology",
+        logo: Logo.Cryptology,
+        width: 150,
+    },
+    {
+        name: "web安全",
+        key: "WebSafe",
+        logo: Logo.WebSafe,
+        width: 150,
+    },
+    {
+        name: "PWN",
+        key: "pwn",
+        logo: Logo.Pwn,
         width: 150,
     },
 ]

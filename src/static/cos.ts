@@ -8,6 +8,7 @@ export const Logo = {
   Multimedia: `${BaseUrl}/images/department/multimedia-department.png`,
   Software: `${BaseUrl}/images/department/software-depertment.png`,
   Hardware: `${BaseUrl}/images/department/hardware-department.png`,
+  Safe: `${BaseUrl}/images/department/safe-department.png`,
   Organization: `${BaseUrl}/images/department/organization-department.png`,
   Kexie: `${BaseUrl}/images/logo.png`,
   Web: `${BaseUrl}/images/learning-direction/react.png`,
@@ -18,6 +19,10 @@ export const Logo = {
   DeepLearning: `${BaseUrl}/images/learning-direction/python.png`,
   MiniProgram: `${BaseUrl}/images/learning-direction/mini-program.png`,
   Video: `${BaseUrl}/images/learning-direction/bilibili.png`,
+  ReverseProject: `${BaseUrl}/images/learning-direction/reverse-project.png`,
+  Cryptology: `${BaseUrl}/images/learning-direction/crypto.png`,
+  WebSafe: `${BaseUrl}/images/learning-direction/web-safe.png`,
+  Pwn: `${BaseUrl}/images/learning-direction/pwn.png`
 } as const;
 
 export const QRCode = {
